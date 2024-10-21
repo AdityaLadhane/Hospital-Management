@@ -1,4 +1,4 @@
-# Hosital-Management-System-DBMS
+# Hospital-Management-System-DBMS
 
 
 <pre>
